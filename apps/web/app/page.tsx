@@ -1,10 +1,7 @@
-import { Button, Header } from "ui";
-
 export default function Page() {
   return (
-    <>
-      <Header text="Web" />
-      <Button />
-    </>
+    <div>
+      <h1>Resend + react email sample</h1>
+    </div>
   );
 }
